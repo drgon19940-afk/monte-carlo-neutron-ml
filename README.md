@@ -63,4 +63,4 @@ predicts results instantly. This is exactly how modern nuclear engineering
 research accelerates reactor design and material screening.
 
 Author
-JINX_KAL — github.com/JINX_KAL
+JINX_KAL — github.com
